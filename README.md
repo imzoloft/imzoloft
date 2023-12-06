@@ -54,6 +54,8 @@ var tools = []string{
 - Social
 Discord: imzoloft
 Telegram: @imzoloft
+Gitlab: imzoloft
+Github: imzoloft
 ```
 
 ---
