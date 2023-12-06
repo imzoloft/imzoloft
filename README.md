@@ -50,7 +50,7 @@ var tools = []string{
 
 ---
 
-```
+```go
 - Social
 Discord: imzoloft
 Telegram: @imzoloft
@@ -58,7 +58,7 @@ Telegram: @imzoloft
 
 ---
 
-```
+```go
 Thanks for visiting my profile, you can always donate me!
 BTC Wallet: bc1q0jc0dd6a7alzmr8j7hseg6r5d8333re9wu87wj
 ```
