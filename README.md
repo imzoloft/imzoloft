@@ -9,7 +9,7 @@
 ---
 
 ```
-Hey there, I am a software engineer and I do cyber security.
+Hey there, I am a software engineer.
 I spend my time developing tools linked to cyber security.
 
 I am currently working on an external valorant cheat.
