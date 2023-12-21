@@ -39,12 +39,14 @@ var frameworks = []string{
     "Express",
     "GoFiber",
     "Spring",
+    "ETC",
 }
 
 var tools = []string{
     "Docker",
     "Vscode",
     "Datagrip",
+    "ETC",
 }
 ```
 
