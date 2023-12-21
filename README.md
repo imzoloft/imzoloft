@@ -12,7 +12,7 @@
 Hey there, I am a software engineer.
 I spend my time developing tools linked to cyber security.
 
-I am currently working on an external valorant cheat.
+I am currently working on a streamlined proxy solution (API) to empower developer workflows.
 ```
 
 ---
