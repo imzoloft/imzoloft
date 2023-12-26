@@ -11,8 +11,9 @@
 ```
 Hey there, I am a software engineer.
 I spend my time developing tools linked to cyber security.
+I own a streamlined proxy solution (API) to empower developer workflows called Revolutionize.
 
-I am currently working on a streamlined proxy solution (API) to empower developer workflows.
+I am currently working on Revolutionize and Freelancing.
 ```
 
 ---
@@ -58,6 +59,8 @@ Discord: imzoloft
 Telegram: @imzoloft
 Gitlab: imzoloft
 Github: imzoloft
+
+Revolutionize: https://discord.gg/2VDpC6xFkE
 ```
 
 ---
