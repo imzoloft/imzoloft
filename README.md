@@ -10,6 +10,7 @@
 
 ```
 Hey there, I am a software engineer.
+Currently working as a full-stack developer.
 I spend my time developing tools linked to cyber security.
 I own a streamlined proxy solution (API) to empower developer workflows called Revolutionize.
 
@@ -47,6 +48,8 @@ var tools = []string{
     "Docker",
     "Vscode",
     "Datagrip",
+    "Postgres",
+    "Redis",
     "ETC",
 }
 ```
