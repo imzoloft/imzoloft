@@ -10,11 +10,12 @@
 
 ```
 Hey there, I am a software engineer.
-Currently working as a full-stack developer.
-I spend my time developing tools linked to cyber security.
+Currently working as a full-stack developer since 2021.
 I own a streamlined proxy solution (API) to empower developer workflows called Revolutionize.
 
-I am currently working on Revolutionize and Freelancing.
+I am currently working on Revolutionize, Freelancing & my main job.
+
+I have a DEC in computer science.
 ```
 
 ---
@@ -50,6 +51,7 @@ var tools = []string{
     "Datagrip",
     "Postgres",
     "Redis",
+    "Vercel",
     "ETC",
 }
 ```
