@@ -12,7 +12,7 @@
 Hey there, I am a software engineer.
 Currently working as a full-stack developer since 2021.
 
-I am currently working on Freelancing, Betting, Lifestyle & my main job.
+I am currently working on a SaaS (React/Python/Serverless), Ecom(React/Node/Microservices) & my main job.
 
 I have a DEC in computer science.
 ```
@@ -60,7 +60,7 @@ var tools = []string{
 ```go
 - Social
 Discord: imzoloft
-Telegram: @imzoloft
+Telegram: imzoloft
 Gitlab: imzoloft
 Github: imzoloft
 
