@@ -12,7 +12,7 @@
 Hey there, I am a software engineer.
 Currently working as a full-stack developer since 2021.
 
-I am currently working on a SaaS (React/Python/Serverless), Ecom(React/Node/Microservices) & my main job.
+I am currently working on a SaaS (React/Python/Serverless), CMS (Vue.js/Golang/GQL) & my main job.
 
 I have a DEC in computer science.
 ```
@@ -33,13 +33,14 @@ var languages = []string{
     "Html/Css",
 }
 
-var frameworks = []string{
+var knowledges = []string{
     "React",
     "Angular",
     "Next",
+    "Sass",
     "GraphQL",
+    "RestAPI",
     "Express",
-    "GoFiber",
     "Spring",
     "ETC",
 }
