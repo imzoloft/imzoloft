@@ -9,10 +9,12 @@
 ---
 
 ```
+~ It always seems impossible unti it's done.
+
 Hey there, I am a software engineer.
 Currently working as a full-stack developer since 2021.
 
-I am currently working on a SaaS (React/Python/Serverless), CMS (Vue.js/Golang/GQL/GCP) & my main job.
+I am currently working on a SaaS (React/Python/Serverless), CMS (Vue.js/Golang/GQL).
 
 I have a DEC in computer science.
 ```
