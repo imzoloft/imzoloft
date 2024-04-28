@@ -2,7 +2,7 @@
 
 ---
 
-![](https://i.gifer.com/YQgT.gif)
+![](https://cdn.discordapp.com/attachments/1065385280393203892/1234201670561562725/YQgT.gif?ex=662fdf60&is=662e8de0&hm=0b3ea51e8beba7e5a01c611f5dadc01bf0b2f052049712607deca70d0d7a8897&)
 
 ```
 ~ It always seems impossible unti it's done.
