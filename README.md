@@ -3,7 +3,7 @@
 ---
 
 <p>
-    <img src="https://i.gifer.com/YQgT.gif" width="250" height="170"</img>
+    <img src="https://i.gifer.com/YQgT.gif" width="250" height="170"></img>
 </p>
 
 ---
