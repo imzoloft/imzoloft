@@ -2,11 +2,7 @@
 
 ---
 
-<p>
-    <img src="https://i.gifer.com/YQgT.gif" width="250" height="170"/>
-</p>
-
----
+![](https://i.gifer.com/YQgT.gif)
 
 ```
 ~ It always seems impossible unti it's done.
