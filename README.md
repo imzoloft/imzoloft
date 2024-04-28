@@ -3,7 +3,7 @@
 ---
 
 <p>
-    <img src="https://media.tenor.com/z-R8JawBpvMAAAAd/lucy-cyberpunk-edge-runner.gif" alt="preview" width="300px"/><br/>
+    <iframe src="https://giphy.com/embed/CW16nFVXLSQxSMUEMd" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 Hey there, I am a software engineer.
 Currently working as a full-stack developer since 2021.
 
-I am currently working on a SaaS (React/Python/Serverless), CMS (Vue.js/Golang/GQL).
+I am currently working on a SaaS (Nuxt.js, Golang)
 
 I have a DEC in computer science.
 ```
@@ -25,12 +25,11 @@ I have a DEC in computer science.
 - My Skills
 var languages = []string{
     "Golang",
+    "Javascript",
     "Typescript",
     "Python",
     "C",
-    "C++",
     "Java",
-    "Csharp",
     "Sql",
     "Html/Css",
 }
@@ -39,6 +38,7 @@ var knowledges = []string{
     "React",
     "Angular",
     "Next",
+    "Nuxt",
     "Sass",
     "GraphQL",
     "RestAPI",
@@ -49,9 +49,8 @@ var knowledges = []string{
 
 var tools = []string{
     "Docker",
-    "Vscode",
-    "Datagrip",
-    "Postgres",
+    "PostgreSQL",
+    "MongoDB",
     "Redis",
     "Vercel",
     "ETC",
