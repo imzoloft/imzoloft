@@ -7,8 +7,7 @@
 ```
 ~ It always seems impossible until it's done.
 
-Hey there, I am a software engineer.
-Currently working as a full-stack developer since 2021.
+Hey there, I am a software engineer since 2021.
 
 I am currently working on a SaaS (Nuxt.js, Golang)
 
