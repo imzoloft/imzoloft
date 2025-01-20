@@ -9,8 +9,6 @@
 
 Hey there, I am a software engineer since 2021.
 
-I am currently working on my agency, Bule.
-
 I have a DEC in computer science.
 ```
 
