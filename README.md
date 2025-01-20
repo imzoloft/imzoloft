@@ -54,7 +54,6 @@ var tools = []string{
 
 ```go
 - Social
-Discord: sirlav0ie
 Telegram: imzoloft
 Github: imzoloft
 
