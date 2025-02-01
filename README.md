@@ -9,7 +9,7 @@
 
 Hey there, I am a software engineer since 2021.
 
-I have a DEC in computer science.
+I have a DEC in computer science & a certificat in software engineer.
 ```
 
 ---
