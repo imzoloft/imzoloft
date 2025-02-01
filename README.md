@@ -22,6 +22,8 @@ var languages = []string{
     "Typescript",
     "Python",
     "C",
+    "C++",
+    "Csharp",
     "Java",
     "Sql",
     "Html/Css",
@@ -29,6 +31,7 @@ var languages = []string{
 
 var knowledges = []string{
     "React",
+    "Blazor",
     "Angular",
     "Next",
     "Nuxt",
