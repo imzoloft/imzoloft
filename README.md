@@ -2,7 +2,7 @@
 
 ---
 
-![](https://cdn.discordapp.com/attachments/1065385280393203892/1234201670561562725/YQgT.gif?ex=662fdf60&is=662e8de0&hm=0b3ea51e8beba7e5a01c611f5dadc01bf0b2f052049712607deca70d0d7a8897&)
+<a href="http://reve-of-manga.centerblog.net"><img src="http://reve-of-manga.r.e.pic.centerblog.net/00746a47.gif" border="0"  alt="Image du Blog reve-of-manga.centerblog.net" /></a>
 
 ```
 ~ It always seems impossible until it's done.
